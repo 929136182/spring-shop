@@ -1,0 +1,7 @@
+server:
+  port: 9093
+dubbo:
+  application:
+    name: search-web-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181

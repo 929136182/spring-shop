@@ -1,0 +1,10 @@
+server:
+  port: 9096
+dubbo:
+  application:
+    name: cart-service-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181
+spring:
+  thymeleaf:
+    cache: false

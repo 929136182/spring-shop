@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-shop-user-service" />
+        <module name="spring-shop-product-api" />
+        <module name="spring-shop-product-service" />
+        <module name="spring-shop-index-web" />
+        <module name="spring-shop-mail-service" />
+        <module name="spring-shop-cart-web" />
+        <module name="spring-shop-service" />
+        <module name="spring-shop-search-service" />
+        <module name="spring-shop-search-web" />
+        <module name="spring-shop-entity" />
+        <module name="spring-shop-cart-api" />
+        <module name="spring-shop-user-api" />
+        <module name="spring-shop-item-api" />
+        <module name="spring-shop-cart-service" />
+        <module name="spring-shop-sso" />
+        <module name="spring-shop-item-service" />
+        <module name="spring-shop-product-web" />
+        <module name="spring-shop-mapper" />
+        <module name="spring-shop-web" />
+        <module name="spring-shop-common" />
+        <module name="spring-shop-search-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-user-service" options="-parameters" />
+      <module name="spring-shop-cart-service" options="-parameters" />
+      <module name="spring-shop-cart-web" options="-parameters" />
+      <module name="spring-shop-index-web" options="-parameters" />
+      <module name="spring-shop-item-service" options="-parameters" />
+      <module name="spring-shop-mail-service" options="-parameters" />
+      <module name="spring-shop-mapper" options="-parameters" />
+      <module name="spring-shop-product-service" options="-parameters" />
+      <module name="spring-shop-product-web" options="-parameters" />
+      <module name="spring-shop-search-api" options="" />
+      <module name="spring-shop-search-service" options="-parameters" />
+      <module name="spring-shop-search-web" options="-parameters" />
+      <module name="spring-shop-service" options="" />
+      <module name="spring-shop-sso" options="-parameters" />
+      <module name="spring-shop-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

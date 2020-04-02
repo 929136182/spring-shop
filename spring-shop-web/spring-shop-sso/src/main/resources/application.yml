@@ -1,0 +1,13 @@
+server:
+  port: 9095
+dubbo:
+  application:
+    name: user-service-provider
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  protocol:
+    port: 28004
+
+spring:
+  redis:
+    host: 192.168.199.128

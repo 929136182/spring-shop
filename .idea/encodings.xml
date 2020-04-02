@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/spring-shop-api/spring-shop-search-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-basic/spring-shop-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service/spring-shop-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service/spring-shop-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service/spring-shop-mail-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service/spring-shop-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service/spring-shop-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-service/spring-shop-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-web/spring-shop-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-web/spring-shop-index-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-web/spring-shop-product-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-web/spring-shop-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-shop-web/spring-shop-sso" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

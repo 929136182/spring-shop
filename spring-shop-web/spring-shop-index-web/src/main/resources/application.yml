@@ -1,0 +1,7 @@
+server:
+  port: 9092
+dubbo:
+  application:
+    name: product-service-index-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181

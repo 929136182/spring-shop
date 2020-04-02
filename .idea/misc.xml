@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-service/spring-shop-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-web/spring-shop-product-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-web/spring-shop-index-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-service/spring-shop-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-web/spring-shop-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-service/spring-shop-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-web/spring-shop-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-service/spring-shop-mail-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-service/spring-shop-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-service/spring-shop-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shop-web/spring-shop-cart-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

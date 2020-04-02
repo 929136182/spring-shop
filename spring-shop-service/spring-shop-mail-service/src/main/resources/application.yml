@@ -1,0 +1,14 @@
+server:
+  port: 8084
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /test
+  mail:
+    host: smtp.qq.com
+    username: 929136182@qq.com
+    password: yzdkohxnjylvbbeb
+    default-encoding: UTF-8
